@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> import re
+> lyrics = """
+> يا سحر ليلي ونور العيون
+> من غيرك قلبي يعيش في جنون
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
